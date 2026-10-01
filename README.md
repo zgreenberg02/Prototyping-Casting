@@ -8,5 +8,5 @@ Foundry operations, additive manufacturing, and student mentoring at Georgia Tec
 
 
 <p align="center">
-  <img src="./assets/status-banner.svg" alt="Portfolio Updates in Progress" />
+  <img src="./Images/updatesInProgress.svg" alt="Portfolio Updates in Progress" />
 </p>
